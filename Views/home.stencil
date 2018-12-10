@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TIL - Kitura</title>
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet"
+      href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=latin,latin-ext">
+  </head>
+  <body>
+    <!--1-->
+    {% include "header.stencil" %}
+    <div class="menu-container">
+      <h2>Existing Acronyms</h4>
+    </div>
+    <div class="menu-add">
+      <div class="menu-add-component">
+        <h3>Short Form</h3>
+      </div>
+      <div class="menu-add-component">
+        <h3>Long Form</h3>
+      </div>
+    </div>
+  </body>
+</html>
