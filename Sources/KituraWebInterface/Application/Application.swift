@@ -65,6 +65,7 @@ class App {
   private func finalizeRoutes(with database: Database) {
     self.database = database
     initializeAcronymRoutes(app: self)
+    initializeClientRoutes(app: self)
     Log.info("Acronym routes created")
   }
   
