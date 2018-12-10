@@ -1,0 +1,325 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["6Kitura6RouterC", ""]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "patch"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- !private "BooleanLiteralType"
+- "Codable"
+- "CodableArrayResultClosure"
+- !private "CodableHelpers"
+- "CodableResultClosure"
+- "FloatLiteralType"
+- "Identifier"
+- "IdentifierCodableArrayResultClosure"
+- "IdentifierCodableResultClosure"
+- "IntegerLiteralType"
+- !private "Log"
+- !private "QueryDecoder"
+- "QueryParams"
+- !private "RequestError"
+- "ResultClosure"
+- "Router"
+- "RouterRequest"
+- "RouterResponse"
+- "String"
+- "StringLiteralType"
+- "TypeSafeMiddleware"
+- "Void"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["15KituraContracts11BodyDecoderP", "decode"]
+- !private ["15KituraContracts11BodyDecoderP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["6Kitura14CodableHelpersV", "constructIdentOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructTupleArrayOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "httpStatusCode"]
+- !private ["6Kitura14CodableHelpersV", "parseIdOrSetResponseStatus"]
+- !private ["6Kitura14CodableHelpersV", "readCodableOrSetResponseStatus"]
+- !private ["15KituraContracts5CoderC", "decode"]
+- !private ["15KituraContracts5CoderC", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "internalServerError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "internalServerError"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["s7DecoderP", "decode"]
+- !private ["s7DecoderP", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "created"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "internalServerError"]
+- !private ["s5ErrorP", "internalServerError"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "badRequest"]
+- !private ["SH", "created"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "internalServerError"]
+- !private ["15KituraContracts10IdentifierP", "_getBuiltinLogicValue"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["15KituraContracts12QueryDecoderC", "decode"]
+- !private ["15KituraContracts12QueryDecoderC", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "badRequest"]
+- !private ["SY", "created"]
+- !private ["SY", "internalServerError"]
+- !private ["15KituraContracts12RequestErrorV", "internalServerError"]
+- ["6Kitura6RouterC", "Codable"]
+- ["6Kitura6RouterC", "CodableArrayResultClosure"]
+- !private ["6Kitura6RouterC", "CodableHelpers"]
+- ["6Kitura6RouterC", "CodableResultClosure"]
+- ["6Kitura6RouterC", "Identifier"]
+- ["6Kitura6RouterC", "IdentifierCodableArrayResultClosure"]
+- ["6Kitura6RouterC", "IdentifierCodableResultClosure"]
+- !private ["6Kitura6RouterC", "Log"]
+- !private ["6Kitura6RouterC", "QueryDecoder"]
+- ["6Kitura6RouterC", "QueryParams"]
+- !private ["6Kitura6RouterC", "RequestError"]
+- ["6Kitura6RouterC", "ResultClosure"]
+- ["6Kitura6RouterC", "RouterRequest"]
+- ["6Kitura6RouterC", "RouterResponse"]
+- ["6Kitura6RouterC", "String"]
+- ["6Kitura6RouterC", "TypeSafeMiddleware"]
+- ["6Kitura6RouterC", "Void"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "get"]
+- !private ["6Kitura6RouterC", "handleMiddleware"]
+- !private ["6Kitura6RouterC", "join"]
+- !private ["6Kitura6RouterC", "parameterIsPresent"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "put"]
+- !private ["6Kitura6RouterC", "registerDeleteRoute"]
+- !private ["6Kitura6RouterC", "registerGetRoute"]
+- !private ["6Kitura6RouterC", "registerPatchRoute"]
+- !private ["6Kitura6RouterC", "registerPostRoute"]
+- !private ["6Kitura6RouterC", "registerPutRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "CodableHelpers"]
+- !private ["6Kitura16RouterMiddlewareP", "Log"]
+- !private ["6Kitura16RouterMiddlewareP", "QueryDecoder"]
+- !private ["6Kitura16RouterMiddlewareP", "delete"]
+- !private ["6Kitura16RouterMiddlewareP", "get"]
+- !private ["6Kitura16RouterMiddlewareP", "handleMiddleware"]
+- !private ["6Kitura16RouterMiddlewareP", "join"]
+- !private ["6Kitura16RouterMiddlewareP", "parameterIsPresent"]
+- !private ["6Kitura16RouterMiddlewareP", "patch"]
+- !private ["6Kitura16RouterMiddlewareP", "post"]
+- !private ["6Kitura16RouterMiddlewareP", "put"]
+- !private ["6Kitura16RouterMiddlewareP", "registerDeleteRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerGetRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPatchRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPostRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPutRoute"]
+- !private ["6Kitura13RouterRequestC", "queryParameters"]
+- !private ["6Kitura14RouterResponseC", "status"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["9KituraNet14ServerDelegateP", "CodableHelpers"]
+- !private ["9KituraNet14ServerDelegateP", "Log"]
+- !private ["9KituraNet14ServerDelegateP", "QueryDecoder"]
+- !private ["9KituraNet14ServerDelegateP", "delete"]
+- !private ["9KituraNet14ServerDelegateP", "get"]
+- !private ["9KituraNet14ServerDelegateP", "handleMiddleware"]
+- !private ["9KituraNet14ServerDelegateP", "join"]
+- !private ["9KituraNet14ServerDelegateP", "parameterIsPresent"]
+- !private ["9KituraNet14ServerDelegateP", "patch"]
+- !private ["9KituraNet14ServerDelegateP", "post"]
+- !private ["9KituraNet14ServerDelegateP", "put"]
+- !private ["9KituraNet14ServerDelegateP", "registerDeleteRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerGetRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPatchRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPostRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPutRoute"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "handle"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "15KituraContracts11BodyDecoderP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "6Kitura14CodableHelpersV"
+- !private "15KituraContracts5CoderC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "15KituraContracts10IdentifierP"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "15KituraContracts12QueryDecoderC"
+- !private "Sm"
+- !private "SY"
+- !private "15KituraContracts12RequestErrorV"
+- "6Kitura6RouterC"
+- !private "6Kitura16RouterMiddlewareP"
+- !private "6Kitura13RouterRequestC"
+- !private "6Kitura14RouterResponseC"
+- !private "ST"
+- !private "9KituraNet14ServerDelegateP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "6Kitura18TypeSafeMiddlewareP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SSLService.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraContracts.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraNet.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/utils.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/CHTTPParser.build/module.modulemap"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c15da2591a78a91632f0055102b5914f"

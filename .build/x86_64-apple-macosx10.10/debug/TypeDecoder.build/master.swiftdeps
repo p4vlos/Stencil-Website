@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6052876ab1004a682f98a2e5ca274cf3"
+build_time: [1544452492, 842752000]
+inputs:
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/TypeDecoder.git-8670499545730622900/Sources/TypeDecoder/OrderedDictionary.swift": [1544452491, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/TypeDecoder.git-8670499545730622900/Sources/TypeDecoder/TypeDecoder.swift": [1544452491, 0]

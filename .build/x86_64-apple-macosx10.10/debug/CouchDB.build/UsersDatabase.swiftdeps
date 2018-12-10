@@ -1,0 +1,320 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UsersDatabase"
+provides-nominal:
+- "7CouchDB13UsersDatabaseC"
+provides-member:
+- ["7CouchDB13UsersDatabaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "=="
+- !private "AnyObject"
+- !private "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "CouchDBUtils"
+- "Database"
+- !private "HTTP"
+- !private "HTTPStatusCode"
+- "JSON"
+- "NSError"
+- "String"
+- !private "StringLiteralType"
+- "UsersDatabase"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "string"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["9KituraNet13ClientRequestC", "end"]
+- !private ["9KituraNet14ClientResponseC", "statusCode"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "object"]
+- !private ["Sl", "rawString"]
+- !private ["Sl", "string"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "object"]
+- !private ["SL", "rawString"]
+- !private ["SL", "string"]
+- !private ["SL", "subscript"]
+- !private ["7CouchDB0A7DBUtilsC", "createError"]
+- !private ["7CouchDB0A7DBUtilsC", "getBodyAsJson"]
+- !private ["7CouchDB0A7DBUtilsC", "prepareRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["7CouchDB8DatabaseC", "AnyObject"]
+- !private ["7CouchDB8DatabaseC", "CouchDBUtils"]
+- !private ["7CouchDB8DatabaseC", "Database"]
+- !private ["7CouchDB8DatabaseC", "HTTP"]
+- !private ["7CouchDB8DatabaseC", "HTTPStatusCode"]
+- !private ["7CouchDB8DatabaseC", "InternalError"]
+- !private ["7CouchDB8DatabaseC", "InvalidDocument"]
+- ["7CouchDB8DatabaseC", "JSON"]
+- !private ["7CouchDB8DatabaseC", "JSONDictionary"]
+- ["7CouchDB8DatabaseC", "NSError"]
+- ["7CouchDB8DatabaseC", "String"]
+- ["7CouchDB8DatabaseC", ""]
+- !private ["7CouchDB8DatabaseC", "connProperties"]
+- ["7CouchDB8DatabaseC", "createUser"]
+- ["7CouchDB8DatabaseC", "getUser"]
+- ["7CouchDB8DatabaseC", "init"]
+- !private ["7CouchDB8DatabaseC", "init"]
+- !private ["7CouchDB8DatabaseC", "retrieve"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "accepted"]
+- !private ["SQ", "created"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "object"]
+- !private ["SQ", "rawString"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "object"]
+- !private ["s25ExpressibleByArrayLiteralP", "rawString"]
+- !private ["s25ExpressibleByArrayLiteralP", "string"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "object"]
+- !private ["s27ExpressibleByBooleanLiteralP", "rawString"]
+- !private ["s27ExpressibleByBooleanLiteralP", "string"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "object"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "rawString"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "object"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "rawString"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "object"]
+- !private ["s25ExpressibleByFloatLiteralP", "rawString"]
+- !private ["s25ExpressibleByFloatLiteralP", "string"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "object"]
+- !private ["s27ExpressibleByIntegerLiteralP", "rawString"]
+- !private ["s27ExpressibleByIntegerLiteralP", "string"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "object"]
+- !private ["s23ExpressibleByNilLiteralP", "rawString"]
+- !private ["s23ExpressibleByNilLiteralP", "string"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "object"]
+- !private ["s26ExpressibleByStringLiteralP", "rawString"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "object"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "rawString"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["9KituraNet4HTTPC", "request"]
+- !private ["9KituraNet14HTTPStatusCodeO", "accepted"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "accepted"]
+- !private ["SH", "created"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "subscript"]
+- !private ["10SwiftyJSON0B0V", "init"]
+- !private ["10SwiftyJSON0B0V", "object"]
+- !private ["10SwiftyJSON0B0V", "rawString"]
+- !private ["10SwiftyJSON0B0V", "string"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s22LazyCollectionProtocolP", "string"]
+- !private ["s20LazySequenceProtocolP", "string"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "string"]
+- !private ["Sk", "string"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "string"]
+- !private ["SY", "accepted"]
+- !private ["SY", "created"]
+- !private ["SY", "init"]
+- !private ["SY", "object"]
+- !private ["SY", "rawString"]
+- !private ["SY", "string"]
+- !private ["SY", "subscript"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "object"]
+- !private ["ST", "rawString"]
+- !private ["ST", "string"]
+- !private ["ST", "subscript"]
+- !private ["s5SliceV", "string"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["7CouchDB13UsersDatabaseC", "AnyObject"]
+- !private ["7CouchDB13UsersDatabaseC", "CouchDBUtils"]
+- !private ["7CouchDB13UsersDatabaseC", "Database"]
+- !private ["7CouchDB13UsersDatabaseC", "HTTP"]
+- !private ["7CouchDB13UsersDatabaseC", "HTTPStatusCode"]
+- ["7CouchDB13UsersDatabaseC", "JSON"]
+- ["7CouchDB13UsersDatabaseC", "JSONDictionary"]
+- ["7CouchDB13UsersDatabaseC", "NSError"]
+- ["7CouchDB13UsersDatabaseC", "String"]
+- !private ["7CouchDB13UsersDatabaseC", "connProperties"]
+- ["7CouchDB13UsersDatabaseC", "createUser"]
+- ["7CouchDB13UsersDatabaseC", "getUser"]
+- ["7CouchDB13UsersDatabaseC", "init"]
+- !private ["7CouchDB13UsersDatabaseC", "retrieve"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "9KituraNet13ClientRequestC"
+- !private "9KituraNet14ClientResponseC"
+- !private "Sl"
+- !private "SL"
+- !private "7CouchDB0A7DBUtilsC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "7CouchDB8DatabaseC"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet4HTTPC"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s5SliceV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "7CouchDB13UsersDatabaseC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SwiftyJSON.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraNet.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/utils.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/CHTTPParser.build/module.modulemap"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6e81fba98172ee27c676a7704ec5f0df"

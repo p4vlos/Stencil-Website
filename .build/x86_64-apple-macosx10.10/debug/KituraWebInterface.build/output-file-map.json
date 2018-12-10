@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/master.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Application/Application.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application/Application.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Application/main.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application/main.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Models/Acronym.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Models/Acronym.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Models/AcronymPersistence.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Models/AcronymPersistence.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Routes/AcronymRoutes.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Routes/AcronymRoutes.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes.swiftdeps"
+  }
+}

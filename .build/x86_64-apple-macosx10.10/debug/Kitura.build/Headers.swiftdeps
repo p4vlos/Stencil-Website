@@ -1,0 +1,445 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Headers"
+provides-nominal:
+- "6Kitura7HeadersV"
+provides-member:
+- ["6Kitura7HeadersV", ""]
+- ["6Kitura7HeadersV", "setLocation"]
+- ["6Kitura7HeadersV", "setType"]
+- ["6Kitura7HeadersV", "addAttachment"]
+- ["6Kitura7HeadersV", "addLink"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "+="
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Collection"
+- !private "ContentType"
+- "ExtendedGraphemeClusterType"
+- "Headers"
+- "HeadersContainer"
+- "LinkParameter"
+- "String"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["Sa", "last"]
+- !private ["Sa", "map"]
+- !private ["s13ArrayProtocolP", "first"]
+- !private ["s13ArrayProtocolP", "last"]
+- !private ["s13ArrayProtocolP", "map"]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "last"]
+- !private ["SK", "map"]
+- !private ["SK", "split"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "split"]
+- !private ["SJ", "init"]
+- !private ["SJ", "init"]
+- !private ["Sl", "ContentType"]
+- ["Sl", "Element"]
+- ["Sl", "Index"]
+- ["Sl", "Indices"]
+- ["Sl", "Iterator"]
+- !private ["Sl", "String"]
+- ["Sl", "SubSequence"]
+- ["Sl", ""]
+- ["Sl", "_Default_Element"]
+- ["Sl", "_Default_Index"]
+- ["Sl", "_Default_Indices"]
+- ["Sl", "_Default_Iterator"]
+- ["Sl", "_Default_SubSequence"]
+- ["Sl", "_copyContents"]
+- ["Sl", "_copyToContiguousArray"]
+- ["Sl", "_customContainsEquatableElement"]
+- ["Sl", "_customIndexOfEquatableElement"]
+- ["Sl", "_customLastIndexOfEquatableElement"]
+- ["Sl", "_failEarlyRangeCheck"]
+- ["Sl", "_preprocessingPass"]
+- !private ["Sl", "append"]
+- ["Sl", "count"]
+- ["Sl", "distance"]
+- ["Sl", "drop"]
+- ["Sl", "dropFirst"]
+- ["Sl", "dropLast"]
+- ["Sl", "endIndex"]
+- ["Sl", "filter"]
+- ["Sl", "first"]
+- ["Sl", "forEach"]
+- ["Sl", "formIndex"]
+- !private ["Sl", "headers"]
+- ["Sl", "index"]
+- ["Sl", "indices"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- ["Sl", "isEmpty"]
+- !private ["Sl", "last"]
+- ["Sl", "makeIterator"]
+- ["Sl", "map"]
+- ["Sl", "prefix"]
+- ["Sl", "split"]
+- ["Sl", "startIndex"]
+- ["Sl", "subscript"]
+- ["Sl", "suffix"]
+- ["Sl", "underestimatedCount"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "split"]
+- !private ["6Kitura11ContentTypeC", "getContentType"]
+- !private ["6Kitura11ContentTypeC", "sharedInstance"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "split"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "split"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "split"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "split"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "last"]
+- !private ["Se", "map"]
+- !private ["Se", "split"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "last"]
+- !private ["SE", "map"]
+- !private ["SE", "split"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "last"]
+- !private ["SQ", "map"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "split"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "split"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "split"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "split"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "last"]
+- !private ["SH", "map"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "split"]
+- !private ["6Kitura7HeadersV", "ContentType"]
+- ["6Kitura7HeadersV", "Element"]
+- ["6Kitura7HeadersV", "HeadersContainer"]
+- ["6Kitura7HeadersV", "HeadersIndex"]
+- ["6Kitura7HeadersV", "Index"]
+- ["6Kitura7HeadersV", "Indices"]
+- ["6Kitura7HeadersV", "Iterator"]
+- ["6Kitura7HeadersV", "LinkParameter"]
+- ["6Kitura7HeadersV", "String"]
+- ["6Kitura7HeadersV", "SubSequence"]
+- ["6Kitura7HeadersV", "_Default_Element"]
+- ["6Kitura7HeadersV", "_Default_Index"]
+- ["6Kitura7HeadersV", "_Default_Indices"]
+- ["6Kitura7HeadersV", "_Default_Iterator"]
+- ["6Kitura7HeadersV", "_Default_SubSequence"]
+- ["6Kitura7HeadersV", "_copyContents"]
+- ["6Kitura7HeadersV", "_copyToContiguousArray"]
+- ["6Kitura7HeadersV", "_customContainsEquatableElement"]
+- ["6Kitura7HeadersV", "_customIndexOfEquatableElement"]
+- ["6Kitura7HeadersV", "_customLastIndexOfEquatableElement"]
+- ["6Kitura7HeadersV", "_failEarlyRangeCheck"]
+- ["6Kitura7HeadersV", "_preprocessingPass"]
+- ["6Kitura7HeadersV", "addAttachment"]
+- ["6Kitura7HeadersV", "addLink"]
+- ["6Kitura7HeadersV", "append"]
+- ["6Kitura7HeadersV", "count"]
+- ["6Kitura7HeadersV", "deinit"]
+- ["6Kitura7HeadersV", "distance"]
+- ["6Kitura7HeadersV", "drop"]
+- ["6Kitura7HeadersV", "dropFirst"]
+- ["6Kitura7HeadersV", "dropLast"]
+- ["6Kitura7HeadersV", "endIndex"]
+- ["6Kitura7HeadersV", "filter"]
+- ["6Kitura7HeadersV", "first"]
+- ["6Kitura7HeadersV", "forEach"]
+- ["6Kitura7HeadersV", "formIndex"]
+- ["6Kitura7HeadersV", "headers"]
+- ["6Kitura7HeadersV", "index"]
+- ["6Kitura7HeadersV", "indices"]
+- ["6Kitura7HeadersV", "init"]
+- ["6Kitura7HeadersV", "isEmpty"]
+- ["6Kitura7HeadersV", "makeIterator"]
+- ["6Kitura7HeadersV", "map"]
+- ["6Kitura7HeadersV", "prefix"]
+- ["6Kitura7HeadersV", "setLocation"]
+- ["6Kitura7HeadersV", "setType"]
+- ["6Kitura7HeadersV", "split"]
+- ["6Kitura7HeadersV", "startIndex"]
+- ["6Kitura7HeadersV", "subscript"]
+- ["6Kitura7HeadersV", "suffix"]
+- ["6Kitura7HeadersV", "underestimatedCount"]
+- ["9KituraNet16HeadersContainerC", "Index"]
+- !private ["9KituraNet16HeadersContainerC", "append"]
+- !private ["9KituraNet16HeadersContainerC", "endIndex"]
+- !private ["9KituraNet16HeadersContainerC", "index"]
+- !private ["9KituraNet16HeadersContainerC", "startIndex"]
+- !private ["9KituraNet16HeadersContainerC", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "_getBuiltinLogicValue"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "split"]
+- ["6Kitura13LinkParameterO", "deinit"]
+- !private ["6Kitura13LinkParameterO", "rawValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "split"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "split"]
+- !private ["SM", "first"]
+- !private ["SM", "last"]
+- !private ["SM", "map"]
+- !private ["So8NSCodingP", "split"]
+- !private ["So9NSCopyingP", "split"]
+- !private ["So21NSItemProviderReadingP", "split"]
+- !private ["So21NSItemProviderWritingP", "split"]
+- !private ["So16NSMutableCopyingP", "split"]
+- !private ["So8NSObjectC", "split"]
+- !private ["So8NSObjectP", "split"]
+- !private ["So14NSSecureCodingP", "split"]
+- !private ["So8NSStringC", "split"]
+- !private ["Sk", "first"]
+- !private ["Sk", "last"]
+- !private ["Sk", "map"]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "last"]
+- !private ["Sm", "map"]
+- !private ["Sm", "split"]
+- !private ["SY", "rawValue"]
+- !private ["ST", "ContentType"]
+- ["ST", "Element"]
+- ["ST", "Index"]
+- ["ST", "Indices"]
+- ["ST", "Iterator"]
+- !private ["ST", "String"]
+- ["ST", "SubSequence"]
+- ["ST", ""]
+- ["ST", "_Default_Element"]
+- ["ST", "_Default_Index"]
+- ["ST", "_Default_Indices"]
+- ["ST", "_Default_Iterator"]
+- ["ST", "_Default_SubSequence"]
+- ["ST", "_copyContents"]
+- ["ST", "_copyToContiguousArray"]
+- ["ST", "_customContainsEquatableElement"]
+- ["ST", "_customIndexOfEquatableElement"]
+- ["ST", "_customLastIndexOfEquatableElement"]
+- ["ST", "_failEarlyRangeCheck"]
+- ["ST", "_preprocessingPass"]
+- !private ["ST", "append"]
+- ["ST", "count"]
+- ["ST", "distance"]
+- ["ST", "drop"]
+- ["ST", "dropFirst"]
+- ["ST", "dropLast"]
+- ["ST", "endIndex"]
+- ["ST", "filter"]
+- ["ST", "first"]
+- ["ST", "forEach"]
+- ["ST", "formIndex"]
+- !private ["ST", "headers"]
+- ["ST", "index"]
+- ["ST", "indices"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- ["ST", "isEmpty"]
+- !private ["ST", "last"]
+- ["ST", "makeIterator"]
+- ["ST", "map"]
+- ["ST", "prefix"]
+- ["ST", "split"]
+- ["ST", "startIndex"]
+- ["ST", "subscript"]
+- ["ST", "suffix"]
+- ["ST", "underestimatedCount"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "split"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "split"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "split"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "split"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "split"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "split"]
+- !private ["s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "split"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "split"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "split"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "split"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "split"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "split"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "split"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "SJ"
+- "Sl"
+- !private "SL"
+- !private "6Kitura11ContentTypeC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- "6Kitura7HeadersV"
+- "9KituraNet16HeadersContainerC"
+- !private "15KituraContracts10IdentifierP"
+- "6Kitura13LinkParameterO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SSLService.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraContracts.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraNet.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/utils.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/CHTTPParser.build/module.modulemap"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "00f60fb3894b99c042a60ec9210a926e"

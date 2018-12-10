@@ -1,0 +1,449 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CouchDBValue"
+- "SessionCallback"
+- "CouchDBClient"
+provides-nominal:
+- "7CouchDB0A8DBClientC"
+provides-member:
+- ["7CouchDB0A8DBClientC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private ">"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "ClientRequest"
+- "ConnectionProperties"
+- "CouchDBClient"
+- !private "CouchDBUtils"
+- "CouchDBValue"
+- !private "Data"
+- "Database"
+- !private "HTTP"
+- !private "HTTPStatusCode"
+- "JSON"
+- "NSError"
+- !private "NSString"
+- "SessionCallback"
+- "String"
+- !private "StringLiteralType"
+- "UInt"
+- !private "UnicodeScalarType"
+- "UsersDatabase"
+- "Void"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "compactMap"]
+- !private ["Sa", "count"]
+- !private ["Sa", "first"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["s13ArrayProtocolP", "compactMap"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "first"]
+- !private ["SK", "append"]
+- !private ["SK", "compactMap"]
+- !private ["SK", "count"]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "compactMap"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["9KituraNet13ClientRequestC", "Options"]
+- !private ["9KituraNet13ClientRequestC", "end"]
+- !private ["9KituraNet14ClientResponseC", "headers"]
+- !private ["9KituraNet14ClientResponseC", "readAllData"]
+- !private ["9KituraNet14ClientResponseC", "readString"]
+- !private ["9KituraNet14ClientResponseC", "statusCode"]
+- !private ["Sl", "append"]
+- !private ["Sl", "array"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "count"]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "parse"]
+- !private ["Sl", "rawString"]
+- !private ["Sl", "string"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "array"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "parse"]
+- !private ["SL", "rawString"]
+- !private ["SL", "string"]
+- !private ["SL", "subscript"]
+- !private ["7CouchDB20ConnectionPropertiesV", "host"]
+- !private ["7CouchDB20ConnectionPropertiesV", "port"]
+- ["7CouchDB0A8DBClientC", "Bool"]
+- !private ["7CouchDB0A8DBClientC", "ClientRequest"]
+- ["7CouchDB0A8DBClientC", "ConnectionProperties"]
+- !private ["7CouchDB0A8DBClientC", "CouchDBUtils"]
+- ["7CouchDB0A8DBClientC", "CouchDBValue"]
+- !private ["7CouchDB0A8DBClientC", "Data"]
+- ["7CouchDB0A8DBClientC", "Database"]
+- !private ["7CouchDB0A8DBClientC", "HTTP"]
+- !private ["7CouchDB0A8DBClientC", "HTTPStatusCode"]
+- ["7CouchDB0A8DBClientC", "JSON"]
+- ["7CouchDB0A8DBClientC", "NSError"]
+- !private ["7CouchDB0A8DBClientC", "NSString"]
+- ["7CouchDB0A8DBClientC", "SessionCallback"]
+- ["7CouchDB0A8DBClientC", "String"]
+- ["7CouchDB0A8DBClientC", "UInt"]
+- ["7CouchDB0A8DBClientC", "UsersDatabase"]
+- ["7CouchDB0A8DBClientC", "Void"]
+- ["7CouchDB0A8DBClientC", "connProperties"]
+- ["7CouchDB0A8DBClientC", "createDB"]
+- ["7CouchDB0A8DBClientC", "createSession"]
+- ["7CouchDB0A8DBClientC", "database"]
+- ["7CouchDB0A8DBClientC", "dbExists"]
+- ["7CouchDB0A8DBClientC", "deleteDB"]
+- ["7CouchDB0A8DBClientC", "deleteSession"]
+- ["7CouchDB0A8DBClientC", "getConfig"]
+- ["7CouchDB0A8DBClientC", "getSession"]
+- ["7CouchDB0A8DBClientC", "getUUID"]
+- ["7CouchDB0A8DBClientC", "getUUIDs"]
+- ["7CouchDB0A8DBClientC", "init"]
+- ["7CouchDB0A8DBClientC", "setConfig"]
+- ["7CouchDB0A8DBClientC", "usersDatabase"]
+- !private ["7CouchDB0A7DBUtilsC", "createError"]
+- !private ["7CouchDB0A7DBUtilsC", "getBodyAsJson"]
+- !private ["7CouchDB0A7DBUtilsC", "prepareRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "compactMap"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "compactMap"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "compactMap"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "host"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "port"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["7CouchDB8DatabaseC", "InternalError"]
+- !private ["7CouchDB8DatabaseC", "init"]
+- !private ["7CouchDB8DatabaseC", "name"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- !private ["Se", "compactMap"]
+- !private ["Se", "count"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- !private ["SE", "compactMap"]
+- !private ["SE", "count"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "OK"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "array"]
+- !private ["SQ", "compactMap"]
+- !private ["SQ", "count"]
+- !private ["SQ", "created"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "parse"]
+- !private ["SQ", "rawString"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "array"]
+- !private ["s25ExpressibleByArrayLiteralP", "compactMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "parse"]
+- !private ["s25ExpressibleByArrayLiteralP", "rawString"]
+- !private ["s25ExpressibleByArrayLiteralP", "string"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "array"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "parse"]
+- !private ["s27ExpressibleByBooleanLiteralP", "rawString"]
+- !private ["s27ExpressibleByBooleanLiteralP", "string"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "array"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "parse"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "rawString"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "array"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "parse"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "rawString"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "array"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "parse"]
+- !private ["s25ExpressibleByFloatLiteralP", "rawString"]
+- !private ["s25ExpressibleByFloatLiteralP", "string"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "array"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "parse"]
+- !private ["s27ExpressibleByIntegerLiteralP", "rawString"]
+- !private ["s27ExpressibleByIntegerLiteralP", "string"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "array"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "parse"]
+- !private ["s23ExpressibleByNilLiteralP", "rawString"]
+- !private ["s23ExpressibleByNilLiteralP", "string"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "array"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "parse"]
+- !private ["s26ExpressibleByStringLiteralP", "rawString"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "array"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "parse"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "rawString"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["9KituraNet4HTTPC", "escape"]
+- !private ["9KituraNet4HTTPC", "request"]
+- !private ["9KituraNet14HTTPStatusCodeO", "OK"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["SH", "OK"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "append"]
+- !private ["SH", "compactMap"]
+- !private ["SH", "count"]
+- !private ["SH", "created"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "subscript"]
+- !private ["9KituraNet16HeadersContainerC", "subscript"]
+- !private ["10SwiftyJSON0B0V", "array"]
+- !private ["10SwiftyJSON0B0V", "init"]
+- !private ["10SwiftyJSON0B0V", "parse"]
+- !private ["10SwiftyJSON0B0V", "rawString"]
+- !private ["10SwiftyJSON0B0V", "string"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "compactMap"]
+- !private ["SM", "count"]
+- !private ["SM", "first"]
+- !private ["SM", "init"]
+- !private ["9KituraNet13ClientRequestC7OptionsO", "headers"]
+- !private ["9KituraNet13ClientRequestC7OptionsO", "hostname"]
+- !private ["9KituraNet13ClientRequestC7OptionsO", "method"]
+- !private ["9KituraNet13ClientRequestC7OptionsO", "path"]
+- !private ["9KituraNet13ClientRequestC7OptionsO", "port"]
+- !private ["Sk", "append"]
+- !private ["Sk", "compactMap"]
+- !private ["Sk", "count"]
+- !private ["Sk", "first"]
+- !private ["Sk", "init"]
+- !private ["Sm", "append"]
+- !private ["Sm", "compactMap"]
+- !private ["Sm", "count"]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "OK"]
+- !private ["SY", "array"]
+- !private ["SY", "created"]
+- !private ["SY", "init"]
+- !private ["SY", "parse"]
+- !private ["SY", "rawString"]
+- !private ["SY", "string"]
+- !private ["SY", "subscript"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "append"]
+- !private ["ST", "array"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "count"]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "parse"]
+- !private ["ST", "rawString"]
+- !private ["ST", "string"]
+- !private ["ST", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["7CouchDB13UsersDatabaseC", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "compactMap"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "compactMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "compactMap"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "9KituraNet13ClientRequestC"
+- !private "9KituraNet14ClientResponseC"
+- !private "Sl"
+- !private "SL"
+- !private "7CouchDB20ConnectionPropertiesV"
+- "7CouchDB0A8DBClientC"
+- !private "7CouchDB0A7DBUtilsC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "7CouchDB8DatabaseC"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet4HTTPC"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "9KituraNet16HeadersContainerC"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "9KituraNet13ClientRequestC7OptionsO"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "7CouchDB13UsersDatabaseC"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SwiftyJSON.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraNet.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/utils.h"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/CHTTPParser.build/module.modulemap"
+- "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "47e9a1e33b582791ba5ca5d63c1b6e40"

@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d5bf705e43146f20008d47f4c5206b0e"
+build_time: [1544452493, 77424000]
+inputs:
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/BodyDecoder.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/BodyEncoder.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/BodyFormat.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/ClosureAliases.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/CodableQuery/Coder.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/CodableQuery/Extensions.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/KituraContracts.git--8251112113704944937/Sources/KituraContracts/Contracts.swift": [1544452489, 0]

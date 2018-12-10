@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/master.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/HeliumLogger.git--499515326530155163/Sources/HeliumLogger/HeliumLogger.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/HeliumLogger.git--499515326530155163/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}
