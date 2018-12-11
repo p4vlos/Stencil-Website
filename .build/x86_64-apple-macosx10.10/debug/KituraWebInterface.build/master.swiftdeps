@@ -1,9 +1,10 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "c1ed6fcfb94e7d6edaaa0a9cd7ab7fa9"
-build_time: [1544452507, 161670000]
+options: "79b17bf5a35bca3539c009e6ef985aa5"
+build_time: [1544520450, 810851000]
 inputs:
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Application/Application.swift": [1517909337, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Application/Application.swift": [1544459412, 0]
   "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Application/main.swift": [1517908928, 0]
   "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Models/Acronym.swift": [1517909337, 0]
   "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Models/AcronymPersistence.swift": [1517909337, 0]
   "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Routes/AcronymRoutes.swift": [1517909337, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/Sources/KituraWebInterface/Routes/ClientRoutes.swift": [1544459998, 0]

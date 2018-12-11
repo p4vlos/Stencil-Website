@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraStencil.build/master.swiftdeps"
+  },
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-StencilTemplateEngine.git-4077586886963692969/Sources/KituraStencil/KituraStencilTemplateEngine.swift": {
+    "dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraStencil.build/KituraStencilTemplateEngine.d",
+    "object": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraStencil.build/KituraStencilTemplateEngine.swift.o",
+    "swiftmodule": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraStencil.build/KituraStencilTemplateEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/x86_64-apple-macosx10.10/debug/KituraStencil.build/KituraStencilTemplateEngine.swiftdeps"
+  }
+}

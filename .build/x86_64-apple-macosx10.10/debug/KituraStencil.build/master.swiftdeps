@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a3fb77c9c26edfb428051c6aa0261f4b"
+build_time: [1544520445, 592846000]
+inputs:
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-StencilTemplateEngine.git-4077586886963692969/Sources/KituraStencil/KituraStencilTemplateEngine.swift": [1544520061, 0]

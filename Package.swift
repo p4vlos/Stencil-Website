@@ -7,8 +7,9 @@ let package = Package(
     .package(url: "https://github.com/IBM-Swift/Kitura.git", .upToNextMinor(from: "2.4.1")),
     .package(url: "https://github.com/IBM-Swift/HeliumLogger.git", .upToNextMinor(from: "1.7.1")),
     .package(url: "https://github.com/IBM-Swift/Kitura-CouchDB.git", .upToNextMinor(from: "2.1.0")),
+    .package(url: "https://github.com/IBM-Swift/Kitura-StencilTemplateEngine.git", .upToNextMinor(from: "1.11.0")),
     ],
   targets: [
-    .target(name: "KituraWebInterface", dependencies: ["Kitura" , "HeliumLogger", "CouchDB"])
+    .target(name: "KituraWebInterface", dependencies: ["Kitura", "HeliumLogger", "CouchDB", "KituraStencil"])
   ]
 )

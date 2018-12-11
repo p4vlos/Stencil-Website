@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "ffd4d7e6437ea8e830bd5ddcd03d59a5"
-build_time: [1544452492, 842629000]
+build_time: [1544520438, 402527000]
 inputs:
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/SwiftyJSON.git-5499823522393471044/Sources/SwiftyJSON/LclJSONSerialization.swift": [1544452490, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/SwiftyJSON.git-5499823522393471044/Sources/SwiftyJSON/SwiftyJSON.swift": [1544452490, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/SwiftyJSON.git--6158968039341002174/Sources/SwiftyJSON/LclJSONSerialization.swift": [1544461708, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/SwiftyJSON.git--6158968039341002174/Sources/SwiftyJSON/SwiftyJSON.swift": [1544461708, 0]

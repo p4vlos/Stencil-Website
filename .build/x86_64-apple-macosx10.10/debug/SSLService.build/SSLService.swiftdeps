@@ -55,6 +55,7 @@ depends-top-level:
 - "SSLConnectionRef"
 - !private "SSLConnectionType"
 - "SSLContext"
+- !private "SSLCopyPeerTrust"
 - !private "SSLCreateContext"
 - !private "SSLError"
 - !private "SSLHandshake"
@@ -70,6 +71,7 @@ depends-top-level:
 - !private "SSLWrite"
 - !private "SecCertificate"
 - !private "SecPKCS12Import"
+- "SecTrust"
 - "Socket"
 - "String"
 - "StringLiteralType"
@@ -488,6 +490,7 @@ depends-member:
 - !private ["10SSLServiceAAC", "SSLClose"]
 - !private ["10SSLServiceAAC", "SSLConnectionType"]
 - ["10SSLServiceAAC", "SSLContext"]
+- !private ["10SSLServiceAAC", "SSLCopyPeerTrust"]
 - !private ["10SSLServiceAAC", "SSLCreateContext"]
 - !private ["10SSLServiceAAC", "SSLError"]
 - !private ["10SSLServiceAAC", "SSLHandshake"]
@@ -503,6 +506,7 @@ depends-member:
 - !private ["10SSLServiceAAC", "SSLWrite"]
 - !private ["10SSLServiceAAC", "SecCertificate"]
 - !private ["10SSLServiceAAC", "SecPKCS12Import"]
+- ["10SSLServiceAAC", "SecTrust"]
 - ["10SSLServiceAAC", "SecureTransportErrors"]
 - ["10SSLServiceAAC", "Socket"]
 - ["10SSLServiceAAC", "String"]
@@ -545,6 +549,7 @@ depends-member:
 - !private ["10SSLServiceAAC", "sslReadCallback"]
 - !private ["10SSLServiceAAC", "sslWriteCallback"]
 - !private ["10SSLServiceAAC", "throwLastError"]
+- ["10SSLServiceAAC", "trust"]
 - !private ["10SSLServiceAAC", "validate"]
 - ["10SSLServiceAAC", "verifyCallback"]
 - !private ["10SSLServiceAAC", "verifyConnection"]
@@ -564,6 +569,7 @@ depends-member:
 - !private ["6Socket18SSLServiceDelegateP", "SSLCipherSuite"]
 - !private ["6Socket18SSLServiceDelegateP", "SSLClose"]
 - !private ["6Socket18SSLServiceDelegateP", "SSLConnectionType"]
+- !private ["6Socket18SSLServiceDelegateP", "SSLCopyPeerTrust"]
 - !private ["6Socket18SSLServiceDelegateP", "SSLCreateContext"]
 - !private ["6Socket18SSLServiceDelegateP", "SSLError"]
 - !private ["6Socket18SSLServiceDelegateP", "SSLHandshake"]
@@ -615,6 +621,7 @@ depends-member:
 - !private ["6Socket18SSLServiceDelegateP", "sslReadCallback"]
 - !private ["6Socket18SSLServiceDelegateP", "sslWriteCallback"]
 - !private ["6Socket18SSLServiceDelegateP", "throwLastError"]
+- !private ["6Socket18SSLServiceDelegateP", "trust"]
 - !private ["6Socket18SSLServiceDelegateP", "validate"]
 - !private ["6Socket18SSLServiceDelegateP", "verifyCallback"]
 - !private ["6Socket18SSLServiceDelegateP", "verifyConnection"]
@@ -869,4 +876,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6c898edeb103cfd37298d77f743f4344"
+interface-hash: "2e459c26e8f93400c454dc1699848e85"

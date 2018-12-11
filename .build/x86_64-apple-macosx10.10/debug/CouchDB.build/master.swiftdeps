@@ -1,9 +1,9 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "f817d3f50718a63ffa6337632693d100"
-build_time: [1544452504, 321206000]
+options: "8ea15973f64f8acefe742b5d0cdcabf2"
+build_time: [1544520448, 25585000]
 inputs:
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--4477719257664297761/Sources/CouchDB/ConnectionProperties.swift": [1544452489, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--4477719257664297761/Sources/CouchDB/CouchDBClient.swift": [1544452489, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--4477719257664297761/Sources/CouchDB/CouchDBUtils.swift": [1544452489, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--4477719257664297761/Sources/CouchDB/Database.swift": [1544452489, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--4477719257664297761/Sources/CouchDB/UsersDatabase.swift": [1544452489, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--9174115231852237194/Sources/CouchDB/ConnectionProperties.swift": [1544461710, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--9174115231852237194/Sources/CouchDB/CouchDBClient.swift": [1544461710, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--9174115231852237194/Sources/CouchDB/CouchDBUtils.swift": [1544461710, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--9174115231852237194/Sources/CouchDB/Database.swift": [1544461710, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-CouchDB.git--9174115231852237194/Sources/CouchDB/UsersDatabase.swift": [1544461710, 0]

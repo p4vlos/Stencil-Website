@@ -1,5 +1,5 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "e099c9a13f2dd5ef57d94de98f02974e"
-build_time: [1544452492, 842827000]
+build_time: [1544520438, 404112000]
 inputs:
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-TemplateEngine.git-1929667533919587865/Sources/KituraTemplateEngine/TemplateEngine.swift": [1544452491, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-TemplateEngine.git-6074105961119700980/Sources/KituraTemplateEngine/TemplateEngine.swift": [1544461708, 0]

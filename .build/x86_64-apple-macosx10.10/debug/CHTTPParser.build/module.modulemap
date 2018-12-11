@@ -1,4 +1,4 @@
 module CHTTPParser {
-    umbrella header "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-7494074644383170107/Sources/CHTTPParser/include/CHTTPParser.h"
+    umbrella header "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/Kitura-net.git-6847998409280116426/Sources/CHTTPParser/include/CHTTPParser.h"
     export *
 }

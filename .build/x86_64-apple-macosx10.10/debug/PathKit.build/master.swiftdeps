@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "88f84fcd3616c8c1678552d6d1d5404b"
+build_time: [1544520438, 404268000]
+inputs:
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/PathKit.git-7590396258037119153/Sources/PathKit.swift": [1544520061, 0]

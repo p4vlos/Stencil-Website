@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "ba7188ab6ebe8c1ad2a75b2bd686e183"
-build_time: [1544452498, 896465000]
+build_time: [1544520445, 460578000]
 inputs:
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/BlueSSLService.git--2339506829672591120/Sources/SSLService/SSLPointerTricks.swift": [1544452490, 0]
-  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/BlueSSLService.git--2339506829672591120/Sources/SSLService/SSLService.swift": [1544452490, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/BlueSSLService.git-555690339377525107/Sources/SSLService/SSLPointerTricks.swift": [1544461709, 0]
+  "/Users/pavlosnicolaou/Documents/workshop/Kitura/KituraWebInterface/KituraWebInterface_Starter/.build/checkouts/BlueSSLService.git-555690339377525107/Sources/SSLService/SSLService.swift": [1544461709, 0]
