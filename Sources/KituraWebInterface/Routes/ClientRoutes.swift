@@ -18,7 +18,7 @@ func initializeClientRoutes(app: App) {
     
     app.router.get("/") { _, response, _ in
         if let database = app.database {
-            // 1
+            // 1 First, you call Persistence.getAll to retrieve all of the acronyms.
             Acronym.Persistence.getAll(from: database) { acronyms, error in
                 guard let acronyms = acronyms else {
                     response.send(error?.localizedDescription)
@@ -26,14 +26,14 @@ func initializeClientRoutes(app: App) {
                 }
                 var contextAcronyms: [[String: Any]] = []
                 for acronym in acronyms {
-                    // 2
+                    // 2 You’ll soon add support for creating an Acronym, but for now, you only use those that already have an id within the database.
                     if let id = acronym.id {
-                        // 3
+                        // 3 In order for Stencil to read properties from your context, you must serialize them. Stencil doesn’t yet support automatic serialization through Codable so you do it the old fashioned way.
                         let map = ["short": acronym.short, "long": acronym.long, "id": id]
                         contextAcronyms.append(map)
                     }
                 }
-                // 4
+                // 4 Finally, you set the contextAcronyms using the key "acronyms". Later on, you’ll use this same key to access this array in HTML.
                 do {
                     try response.render("home", context: ["acronyms": contextAcronyms])
                 } catch let error {
